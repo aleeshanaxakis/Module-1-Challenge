@@ -5,9 +5,7 @@ An increasingly important consideration for businesses, web accessibility ensure
 
 In this project, I refactored the code of Horiseon's brand website to make it more web accessible.
 
-```md
-    !Horiseon Brand Website (assets/images/Horiseon-Brand-Website.png)
-    ```
+![Horiseon-Brand-Website](https://github.com/aleeshanaxakis/Module-1-Challenge/assets/142005319/ebd16a60-c79e-4d36-ac19-55f96fd069cb)
 
 I used the following acceptance criteria:
 GIVEN a webpage meets accessibility standards

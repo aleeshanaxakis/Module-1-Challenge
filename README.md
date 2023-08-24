@@ -1,4 +1,4 @@
-# <Horiseon-Brand-Website>
+# Horiseon-Brand-Website
 
 ## Description
 An increasingly important consideration for businesses, web accessibility ensures that people with disabilities can access a website. Accessibility is good for business—for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.

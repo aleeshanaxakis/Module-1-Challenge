@@ -30,6 +30,7 @@ This project taught me a lot about HTML, Git, CSS, and web accessibility.
 
 ## Installation
 The website can be viewed via the URL.
+https://aleeshanaxakis.github.io/Module-1-Challenge/#search-engine-optimization 
 
 ## Usage
 Horiseon is a social solution services company that provides search engine optimisation, online reputation management, and social media marketing to businesses.
